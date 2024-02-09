@@ -1,6 +1,6 @@
 Checkout my blog: <a href="https://godylockz.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome"></a>
 
-![badge](https://www.hackthebox.eu/badge/image/242773)
+![badge](https://www.hackthebox.com/badge/image/242773)
 
 [![Godylockz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=godylockz&show_icons=true&theme=dracula)](https://github.com/godylockz)
 
